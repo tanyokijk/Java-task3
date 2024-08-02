@@ -1,0 +1,70 @@
+
+”	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éˆÕØ8€Ûø—‘2J$8bfb3c49-6ec8-4676-adf9-7d8d18fba5b2
+”	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶İÈ÷8Ûø—‘2J$ff0e3bdc-19e9-4025-afc6-0be76dec0235
+”	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÈÉ8Ûø—‘2J$267cc145-00d6-4929-a38e-a16726bee8cd
+”	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¤îÀ8Ûø—‘2J$364d18f4-6630-45e2-ba0c-02ba96791e2a
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©â‡´şÿÿÿÿ8Ûø—‘2J$75b5b669-c30b-42ed-9940-9ed6dfb00282
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€…Ã†üÿÿÿÿ8‚Ûø—‘2J$435fb97d-3405-4e3a-ad6a-c2ff9a189e79
+™	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Òøÿûÿÿÿÿ8‚Ûø—‘2J$4f625f89-c52e-4bbf-8528-48be509ea5cb
+™	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°©‚µúÿÿÿÿ8‚Ûø—‘2J$0106cf3c-f5c1-4292-a8d4-3e9a7aaacc5d
+“	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€ó8ƒÛø—‘2J$30a0cd3b-6e91-4ae3-bc8d-a8f0fbefc042
+”	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿«¦ä8ƒÛø—‘2J$1a5f8b6d-db06-4f0c-b055-90e2fba442e2
+™	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ºö™ÿÿÿÿÿ8ƒÛø—‘2J$7e93115a-63a5-4a07-a7f0-0d46d43655db
+”	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤†œ®8„Ûø—‘2J$11696c64-a30c-4abd-a8ac-cfec1a809410
+™	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ˆ’çüÿÿÿÿ8„Ûø—‘2J$bd240ee8-9be8-4c4c-af9f-683e47e86dd9
+”	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù®ôÜ8…Ûø—‘2J$1c47ffff-9bec-4dd6-9d41-7c645c9d7f98
+™	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»šœÖùÿÿÿÿ8…Ûø—‘2J$e5905eb0-0383-4dc4-888b-3205e54d6b8b
+«
+java:S1192]"hDefine a constant instead of duplicating this literal "Ğ¡Ğ»Ğ¾Ğ²Ğ¾ ÑƒÑĞ¿Ñ–ÑˆĞ½Ğ¾ Ğ´Ğ¾Ğ´Ğ°Ğ½Ğµ." 3 times.(ó½Úñ8—Ûø—‘2J$995e8059-c209-45d0-9e01-865892bec466
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8¤Ûø—‘2J$6aba1864-c660-4851-86d3-042c82bd7916
+€
+java:S1854X"=Remove this useless assignment to local variable "inputTest".(ÒÄŠ8¥Ûø—‘2J$e7683447-5aba-4716-87cd-5222d2d52ba7
+€
+java:S1854i"=Remove this useless assignment to local variable "inputTest".(ÒÄŠ8¨Ûø—‘2J$9273629f-5a44-4fdd-9c66-dd90a6fae849
+†
+java:S1854w">Remove this useless assignment to local variable "inputTest5".(È¡ªÁüÿÿÿÿ8¨Ûø—‘2J$0addc9ff-a7a2-46cc-9797-1548f1b43bf4
+„
+java:S1854"@Remove this useless assignment to local variable "inputTest5_2".(éˆÕØ8©Ûø—‘2J$8a483b26-932a-44f2-84c2-dfd3cad0be38
+‰
+java:S1854"@Remove this useless assignment to local variable "inputTest5_3".(©â‡´şÿÿÿÿ8©Ûø—‘2J$c9a29a9f-0dc7-4795-a28b-5593c4d8ab30
+‰
+java:S1854¡"@Remove this useless assignment to local variable "inputTest6_1".(°©‚µúÿÿÿÿ8ªÛø—‘2J$dd3b7eba-19de-4024-bc2d-3e5436258198
+‰
+java:S1854ª"@Remove this useless assignment to local variable "inputTest6_2".(¨ºö™ÿÿÿÿÿ8«Ûø—‘2J$6660d7fc-f3e3-42c6-9584-02b232425851
+„
+java:S1854³"@Remove this useless assignment to local variable "inputTest6_3".(Ù®ôÜ8«Ûø—‘2J$bb446fa2-f4f1-4c05-bcf3-2cd59aaf14dc
+u
+java:S6126="2Replace this String concatenation with Text block.(ÆÕ½¢8ÛÛø—‘2J$56f3a095-e787-4d88-982b-44b8fb9cabb7
+z
+java:S6126Q"2Replace this String concatenation with Text block.(Ê´ùèúÿÿÿÿ8ÜÛø—‘2J$ce5d93a7-ff8c-44a4-847f-343911b0b277
+q
+java:S1481X".Remove this unused "inputTest" local variable.(ÒÄŠ8İÛø—‘2J$70153820-1e63-4ce7-8895-cfb81c4bf065
+q
+java:S1481i".Remove this unused "inputTest" local variable.(ÒÄŠ8ŞÛø—‘2J$1ef06b45-e219-4d72-afbf-6f25e0a5efe1
+u
+java:S6126p"2Replace this String concatenation with Text block.(Ñªáú8ßÛø—‘2J$2895b707-6552-490f-817f-6bd119d77ba6
+w
+java:S1481w"/Remove this unused "inputTest5" local variable.(È¡ªÁüÿÿÿÿ8àÛø—‘2J$7930fb52-4a61-4845-9ada-820ba0e60391
+u
+java:S1481"1Remove this unused "inputTest5_2" local variable.(éˆÕØ8âÛø—‘2J$8d5552b2-ab70-4c5e-a01b-f366526666d8
+z
+java:S1481"1Remove this unused "inputTest5_3" local variable.(©â‡´şÿÿÿÿ8åÛø—‘2J$2b8d1f93-dbbc-4ebf-bbb3-8c4b3c974f21
+{
+java:S6126š"2Replace this String concatenation with Text block.(ÊîÑÊûÿÿÿÿ8æÛø—‘2J$20bc6bcd-caf6-403d-b39f-974afe6fe77f
+z
+java:S1481¡"1Remove this unused "inputTest6_1" local variable.(°©‚µúÿÿÿÿ8èÛø—‘2J$2c7c5733-f4c2-4045-a83a-2316d05f0baf
+z
+java:S1481ª"1Remove this unused "inputTest6_2" local variable.(¨ºö™ÿÿÿÿÿ8êÛø—‘2J$220a993d-8bb2-443c-ac04-a5a856b68829
+u
+java:S1481³"1Remove this unused "inputTest6_3" local variable.(Ù®ôÜ8ìÛø—‘2J$f43bb2a2-3b16-4453-87bf-fef9337d7048
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8…¶ƒ˜‘2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8†¶ƒ˜‘2
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8†¶ƒ˜‘2
+O
+java:S1128	"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8†¶ƒ˜‘2
+Š
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 180 to 64, Complexity from 19 to 14, Nesting Level from 4 to 2, Number of Variables from 30 to 6.(Çµí‘8îÛø—‘2J$6d1829fd-92fe-46c1-8bd0-61495f566103
